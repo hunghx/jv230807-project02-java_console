@@ -1,2 +1,6 @@
-package ra.business.dao;public interface ICatalogDao {
+package ra.business.dao;
+
+import ra.business.entity.Catalog;
+
+public interface ICatalogDao extends IGenericDao<Catalog,Long>{
 }
