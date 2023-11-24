@@ -12,7 +12,13 @@ public class StudentManagement {
         // switch case để điều hướng chức năng do người dùng nhập vào
         // I/O data
 
-        System.out.println("Nhập vào 1 số");
-        int so = InputMethods.getInteger();
+
+        // hiển thị menu chức năng
+        do {
+            
+
+
+        }while (true);
+
     }
 }
